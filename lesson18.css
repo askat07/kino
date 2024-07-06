@@ -80,7 +80,7 @@ header h1{
     position: absolute;
     left: 0;
     right: 0;
-    color: black;
+    color: rgb(6, 5, 5);
     bottom: 0;
     max-height: 100%;
 transform: translateY(101%);
